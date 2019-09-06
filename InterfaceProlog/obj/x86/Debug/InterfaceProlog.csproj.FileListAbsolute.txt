@@ -1,0 +1,56 @@
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\InterfaceProlog.exe
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\InterfaceProlog.pdb
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\SwiPlCs.dll
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\SwiPlCs.xml
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csprojResolveAssemblyReference.cache
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Form1.resources
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Properties.Resources.resources
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.GenerateResource.Cache
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.exe
+c:\users\franco\documents\visual studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.pdb
+C:\Users\franco\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.formBD.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.exe
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.pdb
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\InterfaceProlog.exe
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\InterfaceProlog.pdb
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\SwiPlCs.dll
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\bin\Debug\SwiPlCs.xml
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csprojResolveAssemblyReference.cache
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Form1.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.formBD.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Properties.Resources.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2010\Projects\InterfaceProlog\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.GenerateResource.Cache
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.exe
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.pdb
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.exe
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.pdb
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.dll
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.xml
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csprojResolveAssemblyReference.cache
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.formBD.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Properties.Resources.resources
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.GenerateResource.Cache
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.exe
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.pdb
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.dll
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.xml
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csprojAssemblyReference.cache
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.formBD.resources
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Properties.Resources.resources
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.GenerateResource.cache
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.CopyComplete
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.exe
+C:\Users\luciano\Downloads\IA\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.pdb
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.exe
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\bin\Debug\InterfaceProlog.pdb
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.dll
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\bin\Debug\SwiPlCs.xml
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csprojAssemblyReference.cache
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.formBD.resources
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.Properties.Resources.resources
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.GenerateResource.cache
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.csproj.CopyComplete
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.exe
+C:\Users\luciano\Downloads\projetos\PrologCapital\InterfaceProlog\obj\x86\Debug\InterfaceProlog.pdb

@@ -1,0 +1,13 @@
+:- dynamic poder/2.
+
+poder(goku, 330).
+poder(tenshihan, 230).
+poder(chichi, 77).
+poder(kuririn, 195).
+poder(yamcha, 167).
+poder(piccolo, 320).
+poder(kami, 300).
+poder(yajirobe, 165).
+poder(daimaoh, 280).
+poder(chaos, 138).
+
